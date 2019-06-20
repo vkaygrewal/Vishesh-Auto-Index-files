@@ -2,11 +2,11 @@
 //<![CDATA[
 $(document).ready(function()
 {
-var aa=$("#mycredit").val();
+var aa=$("#vk").val();
 if (aa == null) {
     window.location.href = "http://www.visheshgrewal.blogspot.com/";
 };
- $("#mycredit").attr("href","
+ $("#vk").attr("href","
 http://www.visheshgrewal.blogspot.com/");
 
 });
