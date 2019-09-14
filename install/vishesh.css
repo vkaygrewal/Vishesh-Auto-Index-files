@@ -1,0 +1,28 @@
+body{ background-color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }body,td,th { font-size: 11px; color: #ffffff;
+ -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */
+}
+form{ background-color: #000000;}
+vishesh{ background-color: #000000;}
+.headervishesh { background-color: #000000; border:none; color:#292929; height:39px; padding:0px; line-height: 39px; border-bottom: solid 3px #E4A915; font-weight: bold; font-size:20px; font-color:white; } 
+.header { padding:10px;  background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%); repeat-x; color:#F5F5F5; border:1px solid #595959; font-weight:bold; font-size:15px; margin-top:1px; } 
+.header:hover{
+    background: linear-gradient(to top right, #ff0000 0%, #000000 100%);
+}
+ .google_search { min-height: 100px;}
+ .google_search2 { min-height: 60px; width:100%; }
+ .google_search2 form { padding: 17px; padding-left: 0; }
+ .google_search2 input[type=text] { width: 80%; max-width:300px; padding: 7px; border-radius: 9px; border: 2px solid #eee; } 
+.google_search2 input[type=submit] { width: 100%; padding: 6px; background: #ff0000 none repeat scroll 0 0; border: 4px solid #0063c9; font-size: 20px; border-radius: 9px; color: #fff; box-shadow: 1px 2px 5px #003; min-width: 60px; cursor: pointer; }
+.red{background: none repeat scroll 0% 0% #000000;
+border-bottom: 1px solid #DDD;
+padding: 7px 11px;
+font-size: 15px;
+font-weight: bold;
+color: #118B71;
+line-height: 24px;}
+.footer { background-color: #797979; border:none; color:#fff; height:35px; padding:0; line-height: 35px; border-bottom: solid 2px red; text-align: center; }
+.footer::after{ content: "Designed by Vishesh Grewal";
+}
